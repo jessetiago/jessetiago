@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessetiago
 - 👀 I’m interested in recruiting IT professionals.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on several opportunities/vacancies with you.
+- 👋 I’m looking to collaborate on several opportunities/vacancies with you.
 - 📫 How to reach me ... e-mail: jesse.silva@awwcor.com
 
 <!---
